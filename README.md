@@ -149,8 +149,8 @@ Prediction script that:
 
 ## Author
 
-**Username**: JAGAR03  
-**Email**: kunutk03@gmail.com
+**Username**: Mohd Mujeeb 
+**Email**: mohdmujeeb1008@gmail.com
 
 ## License
 
